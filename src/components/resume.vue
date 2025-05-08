@@ -26,7 +26,7 @@
             </div>
             <div class="col-8 mb-5">
                 <div class="skillBox px-4 py-2 text-white">
-                    <p class="greenFont">Vue , Vuex & VueRouter:</p>
+                    <p class="greenFont">Vue , Vuex & VueRouter, pinia:</p>
                     <p>Skilled in building robust applications using Vue 3 Composition API, reusable composables, and
                         lifecycle hooks. Experienced in efficient event handling with emit and provide/inject, managing
                         global state via Vuex, and implementing dynamic routing with Vue Router. Proficient in API

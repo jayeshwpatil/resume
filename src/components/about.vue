@@ -86,7 +86,7 @@
                     </div>
                     <div class="col-sm-3">
                         <div class="skillBox rounded p-3">
-                            <div class="fw-bold  text-center mb-2">Vue, vuex</div>
+                            <div class="fw-bold  text-center mb-2">Vue, Vuex, Vue Router</div>
                             <p class="skillDes">all most all the tags are learn, and make desing accordingly</p>
                             <div class="progress" role="progressbar" aria-label="Animated striped example"
                                 aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
@@ -97,11 +97,22 @@
                     </div>
                     <div class="col-sm-3">
                         <div class="skillBox rounded p-3">
-                            <div class="fw-bold  text-center mb-2">Nuxt</div>
+                            <div class="fw-bold  text-center mb-2">Pinia</div>
                             <p class="skillDes">all most all the tags are learn, and make desing accordingly</p>
                             <div class="progress" role="progressbar" aria-label="Animated striped example"
                                 aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 10%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 75%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="skillBox rounded p-3">
+                            <div class="fw-bold  text-center mb-2">Nuxt</div>
+                            <p class="skillDes">all most all the tags are learn, and make desing accordingly</p>
+                            <div class="progress" role="progressbar" aria-label="Animated striped example"
+                                aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 50%">
                                 </div>
                             </div>
                         </div>
