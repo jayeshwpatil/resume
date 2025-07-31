@@ -28,7 +28,7 @@ onMounted(() => {
 
 <template>
     <div class="marTB marginBottom100">
-        <h2 class="text-center text-white fs-2 mb-2 ">Contact</h2>
+        <h2 class="text-center text-white fs-2 mb-2 ">CONTACT</h2>
         <div class="title-shape mb-5">
             <svg viewBox="0 0 200 20" xmlns="http://www.w3.org/2000/svg">
                 <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10" fill="none" stroke="currentColor"

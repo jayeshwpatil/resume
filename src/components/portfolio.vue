@@ -3,7 +3,7 @@
 
 <template>
     <div class="marTB">
-        <h2 class="text-center text-white fs-2 mb-2 ">Portfolio</h2>
+        <h2 class="text-center text-white fs-2 mb-2 ">PORTFOLIO</h2>
         <div class="title-shape mb-5">
             <svg viewBox="0 0 200 20" xmlns="http://www.w3.org/2000/svg">
                 <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10" fill="none" stroke="currentColor"
@@ -13,7 +13,7 @@
 
         <!-- Tab Content -->
         <div class="row">
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/myWebsite/
 "><img src="../assets/images/ecommerce.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -25,7 +25,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="
 https://jayeshwpatil.github.io/countries/"><img src="../assets/images/country.jpg" class="card-img-top" height="200"
@@ -37,7 +37,7 @@ https://jayeshwpatil.github.io/countries/">Country List</a></h5>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/Login-Register/
 "><img src="../assets/images/login-register.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -48,7 +48,7 @@ https://jayeshwpatil.github.io/countries/">Country List</a></h5>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="
 https://jayeshwpatil.github.io/userProjects/
@@ -61,7 +61,7 @@ https://jayeshwpatil.github.io/userProjects/
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="
 https://jayeshwpatil.github.io/tasklist/
@@ -74,7 +74,7 @@ https://jayeshwpatil.github.io/tasklist/
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/nasaApi/
 "><img src="../assets/images/nasa.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -86,7 +86,7 @@ https://jayeshwpatil.github.io/tasklist/
                 </div>
             </div>
 
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://thehealthyveggies.com/
 "><img src="../assets/images/healthyVeggies.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -98,7 +98,7 @@ https://jayeshwpatil.github.io/tasklist/
                 </div>
             </div>
 
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/emailer/sharekhan/newsLetter.html"><img
                             src="../assets/images/sharekhan.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -110,7 +110,7 @@ https://jayeshwpatil.github.io/tasklist/
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/emailer/putzmeisterIndia/putzmeisterEmail.html"><img
                             src="../assets/images/putzmeisterIndia.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -122,7 +122,7 @@ https://jayeshwpatil.github.io/tasklist/
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/emailer/godrejInterio/newsLetter.html"><img
                             src="../assets/images/godrejInterio.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -134,7 +134,7 @@ https://jayeshwpatil.github.io/tasklist/
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/emailer/signatureEmail/signature.html"><img
                             src="../assets/images/signature.jpg" class="card-img-top" height="200" alt="..."></a>

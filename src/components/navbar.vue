@@ -39,9 +39,11 @@
             </div>
         </nav>
         <div class="bannerBox">
-            <h1 class="fs-1">Hi, I'm <span class="customRed">Jayesh</span></h1>
-            <div class="fs-3">Frontend Developer (Vue js)</div>
-            <div>"Building responsive and SEO-optimized designs."</div>
+            <h1 class="fs-2">Hi, I'm <span class="customRed">Jayesh</span></h1>
+            <div class="fs-3">Team Lead &</div>
+            <div class="fs-3">Frontend Developer ( Vue js )</div>
+            <div class="mt-3">"Crafting responsive, SEO-friendly web applications<br />with modern JavaScript
+                frameworks"</div>
         </div>
     </header>
 
