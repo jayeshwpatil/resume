@@ -16,7 +16,7 @@
         <div class="row timeline-box">
             <div class="col-3 text-end">
                 <div class="text-white">
-                    <p class="fs-4 fw-bold ">Team Lead <span class="badge text-bg-success smallerText">1.9
+                    <p class="fs-4 fw-bold ">Frontend Developer <span class="badge text-bg-success smallerText">2
                             Year</span></p>
                     <p class="fw-bold">Toobzbox Entertainment </p>
                     <p class="text-secondary"><i class="bi bi-calendar-check text-danger1 mx-2"></i> Sept 2023

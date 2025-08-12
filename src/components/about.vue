@@ -13,7 +13,7 @@
         <div class="row">
 
             <div class="col-sm-12 text-white">
-                <p class="pb-5">Results-driven Team Lead and frontend Developer with 16+ years of experience in
+                <p class="pb-5">Results-driven frontend Developer with 16+ years of experience in
                     designing, developing, and delivering high-performance web applications. Specialised in Vue.js 3 and
                     RESTful APIs, with a proven ability to lead cross-functional teams, mentor junior developers, and
                     manage end-to-end frontend execution. Delivered multiple enterprise-level SPAs with 95%+ QA success

@@ -18,7 +18,7 @@
         <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-dark  fixed-top">
             <div class="container">
                 <a class="logo text-white text-decoration-none fw-bold animate__animated animate__bounceInLeft"
-                    href="#"><span class="customRed">J</span>ayesh.</a>
+                    href="#"><span class="customRed">J</span>ayesh</a>
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="#home">Home</a>
@@ -40,7 +40,6 @@
         </nav>
         <div class="bannerBox">
             <h1 class="fs-2">Hi, I'm <span class="customRed">Jayesh</span></h1>
-            <div class="fs-3">Team Lead &</div>
             <div class="fs-3">Frontend Developer ( Vue js )</div>
             <div class="mt-3">"Crafting responsive, SEO-friendly web applications<br />with modern JavaScript
                 frameworks"</div>
