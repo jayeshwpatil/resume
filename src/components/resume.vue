@@ -11,12 +11,11 @@
             </svg>
         </div>
 
-
         <!-- Timeline Item top -->
         <div class="row timeline-box">
             <div class="col-3 text-end">
                 <div class="text-white">
-                    <p class="fs-4 fw-bold ">Frontend Developer <span class="badge text-bg-success smallerText">2
+                    <p class="fs-4 fw-bold ">Freelancer <span class="badge text-bg-success smallerText">2.5
                             Year</span></p>
                     <p class="fw-bold">Toobzbox Entertainment </p>
                     <p class="text-secondary"><i class="bi bi-calendar-check text-danger1 mx-2"></i> Sept 2023
@@ -28,17 +27,11 @@
             </div>
             <div class="col-8 mb-5">
                 <div class="skillBox px-4 py-2 text-white">
-
                     <ul>
-                        <li>Leading a team of frontend developers for modern web application development using Vue.js 3
-                            and related technologies </li>
-                        <li>Responsible for task planning, project tracking, and work allocation to ensure timely and
-                            quality deliverables </li>
-                        <li>Mentoring junior developers through code reviews</li>
-                        <li>Ensuring code quality and performance optimisation through regular review and testing
-                            processes </li>
-                        <li>Collaborating with product managers and backend teams for smooth integration and delivery
-                        </li>
+                        <li>Developed responsive, SEO-optimized websites </li>
+                        <li>Ensured code quality and performance optimisation for smooth user experience. </li>
+                        <li>Delivered cross-browser compatible solutions. </li>
+                        <li>Integrated third-party APIs and plugins to enhance functionality. </li>
                     </ul>
                 </div>
             </div>
@@ -63,15 +56,15 @@
                     <ul>
                         <li>Independently handled the Altigreen website — from client discussions and requirements
                             gathering to implementation and delivery based on continuous feedback. </li>
-                        <li>Developed enterprise-level applications including Brand Central, ORM system, and HRMS using
-                            modern JavaScript and Vue.js</li>
+                        <li>Developed enterprise-level applications including Brand Central, ORM, Appraisal System and
+                            HRMS using modern JavaScript and Vue.js</li>
                         <li>Built microsites and campaign pages for clients like Tata Steel, Adobe, Sharekhan, Cadbury,
                             ICICI, and Putzmeister India. </li>
                         <li>Optimized frontend performance achieving Lighthouse scores above 90 and reducing load times
-                            by 15%</li>
+                            by 15% </li>
                         <li>Increased user engagement by 20% through implementing responsive design and intuitive user
                             interfaces </li>
-                        <li>Integrated RESTful APIs using Axios ensuring 99% uptime and robust data flow </li>
+                        <li>Integrated RESTful APIs using Axios.</li>
                         <li>Collaborated with cross-functional Agile teams delivering projects 10% ahead of schedule
                             with 95% QA approval rate </li>
                         <li>Mentored junior developers and conducted code reviews to maintain high code quality
@@ -101,7 +94,7 @@
                     <ul>
                         <li>Digitized paper-based catalog systems into electronic format improving data accessibility
                             and user experience </li>
-                        <li>Developed webpages using HTML, CSS and for catalog management systems </li>
+                        <li>Developed web interfaces using HTML, CSS, and JavaScript for catalog management systems</li>
                     </ul>
                 </div>
             </div>

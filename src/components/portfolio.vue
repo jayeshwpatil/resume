@@ -37,7 +37,7 @@ https://jayeshwpatil.github.io/countries/">Country List</a></h5>
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-sm-4 col-lg-3">
+            <!-- <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/Login-Register/
 "><img src="../assets/images/login-register.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -47,8 +47,8 @@ https://jayeshwpatil.github.io/countries/">Country List</a></h5>
                         <p class="card-text badge rounded-pill text-bg-success">Vue Project</p>
                     </div>
                 </div>
-            </div>
-            <div class="col-6 col-sm-4 col-lg-3">
+            </div> -->
+            <!-- <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="
 https://jayeshwpatil.github.io/userProjects/
@@ -60,8 +60,8 @@ https://jayeshwpatil.github.io/userProjects/
                         <p class="card-text badge rounded-pill text-bg-success">Vue Project</p>
                     </div>
                 </div>
-            </div>
-            <div class="col-6 col-sm-4 col-lg-3">
+            </div> -->
+            <!-- <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="
 https://jayeshwpatil.github.io/tasklist/
@@ -73,7 +73,7 @@ https://jayeshwpatil.github.io/tasklist/
                         <p class="card-text badge rounded-pill text-bg-success">Vue Project</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/nasaApi/
@@ -110,7 +110,7 @@ https://jayeshwpatil.github.io/tasklist/
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-sm-4 col-lg-3">
+            <!-- <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/emailer/putzmeisterIndia/putzmeisterEmail.html"><img
                             src="../assets/images/putzmeisterIndia.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -121,7 +121,7 @@ https://jayeshwpatil.github.io/tasklist/
                         <p class="card-text badge rounded-pill text-bg-success">Emailer / NewsLetter</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/emailer/godrejInterio/newsLetter.html"><img

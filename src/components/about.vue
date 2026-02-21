@@ -13,12 +13,11 @@
         <div class="row">
 
             <div class="col-sm-12 text-white">
-                <p class="pb-5">Results-driven frontend Developer with 16+ years of experience in
-                    designing, developing, and delivering high-performance web applications. Specialised in Vue.js 3 and
-                    RESTful APIs, with a proven ability to lead cross-functional teams, mentor junior developers, and
-                    manage end-to-end frontend execution. Delivered multiple enterprise-level SPAs with 95%+ QA success
-                    rates, consistently meeting or beating project timelines. Achieving Lighthouse scores above 90, and
-                    improving user engagement by 20%. </p>
+                <p class="pb-5">Senior Frontend Developer with 16+ years of web development experience, specializing in
+                    Vue.js 3, modern JavaScript, and scalable SPA development. Proven expertise in performance
+                    optimization, API integration, and cross-functional Agile collaboration. Experienced in leading
+                    frontend execution from requirements gathering to deployment, delivering high-performance,
+                    Responsive, SEO-optimized applications. </p>
 
             </div>
 
@@ -31,19 +30,22 @@
                     <div class="col-md-12 col-lg-6">
 
                         <h5>Frontend Technologies:</h5>
-                        <p>Vue.js 3, Vue.js 2, Composition API, Options API, Nuxt.js, JavaScript ES6+, HTML5, CSS3</p>
+                        <p>Vue.js 3, Composition API, JavaScript ES6, HTML5, CSS3, Nuxt.js</p>
                         <h5>State Management & Routing:</h5>
-                        <p>Pinia, Vuex, Vue Router, RESTful APIs, Axios</p>
+                        <p>Pinia, Vuex, Vue Router</p>
+                        <h5>API Integration:</h5>
+                        <p>RESTful APIs, Axios</p>
                         <h5>CSS Frameworks & UI:</h5>
                         <p>Bootstrap, Tailwind CSS, Responsive Web Design, Cross-browser Compatibility</p>
-                        <h5>CMS, Cloud:</h5>
-                        <p>WordPress, Webflow, AWS</p>
+                        <h5>Backend, CMS & Cloud:</h5>
+                        <p>WordPress, Webflow, AWS (EC2, Elastic IP, AMI, EBS, Snapshots, Security Groups, IAM,
+                            CloudWatch Monitoring)</p>
                         <h5>Tools & DevOps:</h5>
-                        <p>Git, GitHub, NPM, Vite, Visual Studio Code, Chrome DevTools </p>
+                        <p>Git, GitHub, Visual Studio Code, Chrome DevTools </p>
                         <h5>Team Leadership & Project Tools: </h5>
                         <p>Jira, slack</p>
                         <h5>Design & Optimization:</h5>
-                        <p>SEO Optimization, Performance Testing, Adobe Photoshop, Adobe XD, Canva</p>
+                        <p>SEO Optimization, Performance Optimization, Adobe Photoshop, Adobe XD, Canva</p>
                     </div>
                 </div>
                 <p class="mt-5 fs-4 text-center text-white">Education</p>
