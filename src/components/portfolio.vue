@@ -15,17 +15,30 @@
         <div class="row">
             <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
+                    <a href="https://restaurants-dusky.vercel.app"><img src="../assets/images/screenshot.jpg"
+                            class="card-img-top" height="200" alt="..."></a>
+                    <div class="card-body">
+
+                        <h5 class="card-title"><a href="https://restaurants-dusky.vercel.app">Find Restaurant
+                            </a></h5>
+                        <p class="card-text badge rounded-pill text-bg-success">Vue 3, Pinia, Vue
+                            Router, Firebase </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-sm-4 col-lg-3">
+                <div class="card">
                     <a href="https://jayeshwpatil.github.io/myWebsite/
 "><img src="../assets/images/ecommerce.jpg" class="card-img-top" height="200" alt="..."></a>
                     <div class="card-body">
 
                         <h5 class="card-title"><a href="https://jayeshwpatil.github.io/myWebsite/">Ecommerce
                                 Website </a></h5>
-                        <p class="card-text badge rounded-pill text-bg-success">Vue Project </p>
+                        <p class="card-text badge rounded-pill text-bg-success">Vue Js </p>
                     </div>
                 </div>
             </div>
-            <div class="col-6 col-sm-4 col-lg-3">
+            <!-- <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="
 https://jayeshwpatil.github.io/countries/"><img src="../assets/images/country.jpg" class="card-img-top" height="200"
@@ -36,7 +49,7 @@ https://jayeshwpatil.github.io/countries/">Country List</a></h5>
                         <p class="card-text badge rounded-pill text-bg-success">Vue Project</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/Login-Register/
@@ -74,7 +87,7 @@ https://jayeshwpatil.github.io/tasklist/
                     </div>
                 </div>
             </div> -->
-            <div class="col-6 col-sm-4 col-lg-3">
+            <!-- <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
                     <a href="https://jayeshwpatil.github.io/nasaApi/
 "><img src="../assets/images/nasa.jpg" class="card-img-top" height="200" alt="..."></a>
@@ -84,7 +97,7 @@ https://jayeshwpatil.github.io/tasklist/
                         <p class="card-text badge rounded-pill text-bg-success">Vue Project</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-6 col-sm-4 col-lg-3">
                 <div class="card">
@@ -93,7 +106,7 @@ https://jayeshwpatil.github.io/tasklist/
                     <div class="card-body">
                         <h5 class="card-title"><a href="https://thehealthyveggies.com/
 ">The Healthy Veggies</a></h5>
-                        <p class="card-text badge rounded-pill text-bg-success">Wordpress - Woocommerce</p>
+                        <p class="card-text badge rounded-pill text-bg-success">Wordpress, Woocommerce</p>
                     </div>
                 </div>
             </div>
